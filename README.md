@@ -6,6 +6,8 @@ A dark, vivid and calming colorscheme for Vim, with ports for other code editor 
 
 This colorscheme works best with [vim-polyglot](https://github.com/sheerun/vim-polyglot), please install it first
 
+Make sure your terminal supports true colors as for now this colorscheme only supports that
+
 ## Screenshot
 
 <p align='center'><img src="images/vim.png"/></p>
