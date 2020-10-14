@@ -1,9 +1,5 @@
-<p align='center'>
+<p align='center'><img src="images/palette.png"/></p>
 
-![](./images/palette.png)
+<p align='center'><img src="images/vim.png"/></p>
 
-![](./images/vim.png)
-
-A dark, vivid and calming colorscheme for Vim
-
-</p>
+<p align='center'>A dark, vivid and calming colorscheme for Vim</p
