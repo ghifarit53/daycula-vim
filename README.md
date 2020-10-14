@@ -1,3 +1,9 @@
-<h2 align='center'>daycula.vim</h2>
+<p align='center'>
 
-<p align='center'>a dark, vivid and calming colorscheme for Vim</p>
+![](./images/palette.png)
+
+![](./images/vim.png)
+
+A dark, vivid and calming colorscheme for Vim
+
+</p>
