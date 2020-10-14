@@ -16,7 +16,7 @@ Make sure your terminal supports true colors as for now this colorscheme only su
 
 - Numerous filetypes and plugins support
 - Many customization option
-- Support for italic fonts
+- Support for <i>italic</i> fonts
 
 ## Installation
 
@@ -49,3 +49,7 @@ let g:lightline = { 'colorscheme' : 'daycula'}
 ```vim
 let g:airline_theme = "tokyonight"
 ```
+
+## Customization
+
+
