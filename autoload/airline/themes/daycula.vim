@@ -7,8 +7,6 @@
 
 let g:airline#themes#daycula#palette = {}
 
-let s:style = get(g:, 'daycula_style', 'night')
-
 let s:foreground = [ '#d7b7bb', 250 ]
 let s:background = [ '#1a1d45', 235 ]
 let s:background_alt = [ '#24285e', 236 ]
