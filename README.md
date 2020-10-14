@@ -16,7 +16,7 @@ Make sure your terminal supports true colors as for now this colorscheme only su
 
 - Numerous filetypes and plugins support
 - Many customization option
-- Support for <i>italic</i> fonts
+- Support for <i>italic fonts</i>
 
 ## Installation
 
@@ -94,3 +94,7 @@ Some plugins can highlight the word under current cursor
 (for example [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight))
 
 Set it to either `'bold'`, `'underline'`, `'italic'`, or `'grey background'`
+
+## License
+
+[MIT](./LICENSE) © Muh. Ghifari Taqiuddin
