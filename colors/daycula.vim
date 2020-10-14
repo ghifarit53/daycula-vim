@@ -20,7 +20,6 @@ let g:colors_name = 'daycula'
 " }}}
 " Configuration: {{{
 let s:configuration = {}
-let s:configuration.style = get(g:, 'daycula_style', 'night')
 let s:configuration.transparent_background = get(g:, 'daycula_transparent_background', 0)
 let s:configuration.menu_selection_background = get(g:, 'daycula_menu_selection_background', 'green')
 let s:configuration.disable_italic_comment = get(g:, 'daycula_disable_italic_comment', 0)
