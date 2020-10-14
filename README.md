@@ -2,7 +2,7 @@
 
 ## About
 
-A dark, vivid and calming colorscheme for Vim, with ports for other code editor and terminal coming soon
+Daycula is a dark, vivid and calming colorscheme for Vim, with ports for other code editor and terminal coming soon
 
 This colorscheme works best with [vim-polyglot](https://github.com/sheerun/vim-polyglot), please install it first
 
