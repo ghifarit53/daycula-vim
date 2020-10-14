@@ -50,7 +50,7 @@ let g:lightline = { 'colorscheme' : 'daycula'}
 #### Airline
 
 ```vim
-let g:airline_theme = "tokyonight"
+let g:airline_theme = "daycula"
 ```
 
 ## Customization
