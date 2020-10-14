@@ -23,8 +23,11 @@ Make sure your terminal supports true colors as for now this colorscheme only su
 Here i'm using vim-plug
 
 ```vim
-Plug 'ghifarit53/daycula-vim'
+Plug 'ghifarit53/daycula-vim' , {'branch' : 'main'}
 ```
+
+you need to specify the branch name (in this case,`{'branch' : 'main'}`) as i'm not using `master`
+(the original name) for my default branch name
 
 after installed, add this to your `vimrc` or `init.vim`
 
