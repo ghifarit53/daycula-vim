@@ -31,3 +31,19 @@ set termguicolors
 
 colorscheme daycula
 ```
+
+## Statusline
+
+Daycula supports lightline.vim and airline.vim plugins. See below configuration to make those plugin use daycula
+
+#### Lightline
+
+```vim
+let g:lightline = { 'colorscheme' : 'daycula'}
+```
+
+#### Airline
+
+```vim
+let g:airline_theme = "tokyonight"
+```
