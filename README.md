@@ -98,6 +98,19 @@ Some plugins can highlight the word under current cursor
 
 Set it to either `'bold'`, `'underline'`, `'italic'`, or `'grey background'`
 
+## Ports
+
+Available terminal port of this colorscheme
+
+- Alacritty
+- Kitty
+- Xresources
+
+## Thank you
+
+- sainnhe (used their colorscheme as the base)
+- tessarin (documentation in vim's help format)
+
 ## License
 
 [MIT](./LICENSE) © Muh. Ghifari Taqiuddin
