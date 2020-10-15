@@ -100,11 +100,14 @@ Set it to either `'bold'`, `'underline'`, `'italic'`, or `'grey background'`
 
 ## Ports
 
-Available terminal port of this colorscheme
+Available terminal port of this colorscheme (see [ports](./ports))
 
 - Alacritty
 - Kitty
 - Xresources
+
+You can also make your own port if it's not there.
+If you do, please make a PR with your port added to the list
 
 ## Thank you
 
