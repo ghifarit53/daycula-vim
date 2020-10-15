@@ -103,6 +103,7 @@ Set it to either `'bold'`, `'underline'`, `'italic'`, or `'grey background'`
 Available terminal port of this colorscheme (see [ports](./ports))
 
 - Alacritty
+- iTerm2
 - Kitty
 - Xresources
 
@@ -113,6 +114,7 @@ If you do, please make a PR with your port added to the list
 
 - sainnhe (used their colorscheme as the base)
 - tessarin (documentation in vim's help format)
+- 12-Seconds (iTerm2 port)
 
 ## License
 
