@@ -19,6 +19,7 @@ https://github.com/ghifarit53/daycula-vim
 1. Install				|daycula-install|
 2. Options			    	|daycula-options|
 3. Airline and lightline Themes		|daycula-statusline|
+4. Ports				|daycula-ports|
 4. License				|daycula-licence|
 
 ==============================================================================
@@ -55,7 +56,10 @@ respectively. Options should be placed before setting the colorscheme.
 
 *g:daycula_transparent_background*
 				{boolean}
-				Enable/disable transparency.
+				Enable/disable transparency. If you have
+				problems setting transparency please read
+				issue #8:
+				https://github.com/ghifarit53/daycula-vim/issues/8
 
 *g:daycula_menu_selection_background*
 				{string}
@@ -99,7 +103,20 @@ To enable in Airline: >
  - lightline: https://github.com/itchyny/lightline.vim
 
 ==============================================================================
-4. License						*daycula-licence*
+4. Ports						*daycula-ports*
+
+Available terminal port of this colorscheme:
+(see ./ports: https://github.com/ghifarit53/daycula-vim/blob/main/ports)
+
+ - Alacritty
+ - Kitty
+ - Xresources
+
+You can also make your own port if it's not there. If you do, please make a
+pull request with your port added to the list.
+
+==============================================================================
+5. License						*daycula-licence*
 
 MIT License © Muh. Ghifari Taqiuddin
 https://github.com/ghifarit53/daycula-vim/blob/main/LICENSE
