@@ -55,7 +55,7 @@ let g:airline_theme = "tokyonight"
 
 ## Customization
 
-#### Transparency
+#### Transparency (see issue [#8](https://github.com/ghifarit53/daycula-vim/issues/8))
 
 `g:daycula_transparent_background`
 
