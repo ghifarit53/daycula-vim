@@ -2,11 +2,11 @@
 
 ## About
 
-A dark, vivid and calming colorscheme for Vim, with ports for other code editor and terminal coming soon
+Daycula is a dark, vivid and calming colorscheme for Vim, with ports for other code editor and terminal coming soon
 
 This colorscheme works best with [vim-polyglot](https://github.com/sheerun/vim-polyglot), please install it first
 
-Make sure your terminal supports true colors as for now this colorscheme only supports that
+Also, make sure your terminal supports true colors as this colorscheme only supports that
 
 ## Screenshot
 
@@ -23,8 +23,11 @@ Make sure your terminal supports true colors as for now this colorscheme only su
 Here i'm using vim-plug
 
 ```vim
-Plug 'ghifarit53/daycula-vim'
+Plug 'ghifarit53/daycula-vim' , {'branch' : 'main'}
 ```
+
+you need to specify the branch name (in this case,`{'branch' : 'main'}`) as i'm not using `master`
+(the original name) for my default branch name
 
 after installed, add this to your `vimrc` or `init.vim`
 
@@ -47,12 +50,12 @@ let g:lightline = { 'colorscheme' : 'daycula'}
 #### Airline
 
 ```vim
-let g:airline_theme = "tokyonight"
+let g:airline_theme = "daycula"
 ```
 
 ## Customization
 
-#### Transparency
+#### Transparency (see issue [#8](https://github.com/ghifarit53/daycula-vim/issues/8))
 
 `g:daycula_transparent_background`
 
@@ -94,6 +97,24 @@ Some plugins can highlight the word under current cursor
 (for example [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight))
 
 Set it to either `'bold'`, `'underline'`, `'italic'`, or `'grey background'`
+
+## Ports
+
+Available terminal port of this colorscheme (see [ports](./ports))
+
+- Alacritty
+- iTerm2
+- Kitty
+- Xresources
+
+You can also make your own port if it's not there.
+If you do, please make a PR with your port added to the list
+
+## Thank you
+
+- sainnhe (used their colorscheme as the base)
+- tessarin (documentation in vim's help format)
+- 12-Seconds (iTerm2 port)
 
 ## License
 
