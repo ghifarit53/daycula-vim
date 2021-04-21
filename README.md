@@ -112,9 +112,10 @@ If you do, please make a PR with your port added to the list
 
 ## Thank you
 
-- sainnhe (used their colorscheme as the base)
-- tessarin (documentation in vim's help format)
-- 12-Seconds (iTerm2 port)
+- @sainnhe (used their colorscheme as the base)
+- @tessarin (documentation in vim's help format)
+- @12-Seconds (iTerm2 port)
+- @claytod5 (Windows terminal port)
 
 ## License
 
